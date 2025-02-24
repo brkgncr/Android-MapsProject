@@ -1,4 +1,4 @@
-# MapsProjectKotlin
+# Maps Project - Android Application
 
 This project is a simple Android application that uses Google Maps to display the user's current location and allow long-tap interactions to show address information based on a map location.
 
